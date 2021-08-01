@@ -1,0 +1,7 @@
+main: otherwisejunk.pvptoggle.spigot.plugin.PvPToggle
+name: PvPToggle
+version: 1.0.0
+commands:
+  pvp:
+    description: Toggles whether or not you're flagged for PvP. Only changes your name color (Red for PvP, white for non-PvP).
+    usage: /pvp
